@@ -74,8 +74,8 @@
 
 <h2 >📫 Contact Me</h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesus73514145)](https://github.com/jesus73514145)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesus73514145/)](https://www.linkedin.com/in/jesus73514145/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesussoria12)](https://github.com/jesussoria12)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesussoria12/)](https://www.linkedin.com/in/jesussoria12/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yisusoria@gmail.com)](mailto:yisusoria@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:jesus_soria@usmp.pe)](mailto:jesus_soria@usmp.pe)
 
@@ -97,7 +97,7 @@
 <td width="50%">
 <h3 align="center">AthletiX</h3>
 <div align="center">
-<a href="https://github.com/yasseram1/proyecto-ecommerce-deportivo-net" target="_blank"><img src="https://github.com/jesus73514145/jesus73514145/blob/master/gif/Images/img_athletix.jpeg"></a>
+<a href="https://github.com/yasseram1/proyecto-ecommerce-deportivo-net" target="_blank"><img src="https://github.com/jesussoria12/jesussoria12/blob/master/gif/Images/img_athletix.jpeg"></a>
 <p>
 <a href="https://github.com/yasseram1/proyecto-ecommerce-deportivo-net" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -117,7 +117,7 @@
 
 <h3 align="center">Godlunch</h3>
 <div align="center">                                       
-<a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank"><img src="https://github.com/jesus73514145/jesus73514145/blob/master/gif/Images/img_godlunch.jpeg"></a>
+<a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank"><img src="https://github.com/jesussoria12/jesussoria12/blob/master/gif/Images/img_godlunch.jpeg"></a>
 <br>
 <p>
 <a href="https://www.youtube.com/watch?v=JU1s9c_09LU" target="_blank">
@@ -141,7 +141,7 @@
 <h3 align="center">Pardos Chicken - Chatbot con Dialogflow</h3>
 
 <div align="center">
-<a href="#" target="_blank"><img src="https://github.com/jesus73514145/jesus73514145/blob/master/gif/Images/pardos_chicken.jpeg"></a>
+<a href="#" target="_blank"><img src="https://github.com/jesussoria12/jesussoria12/blob/master/gif/Images/pardos_chicken.jpeg"></a>
 <p>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
@@ -209,7 +209,7 @@ The project focused on developing a help chatbot for the process on the <strong>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&langs_count=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145\&layout=compact&langs_count=10) 
 Verde Oscuro a Azul Claro: -->
-[![Ejemplo 2](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,192F6A,49a7c5&title_color=fff&text_color=fff)](https://github.com/jesus73514145)
+[![Ejemplo 2](https://github-readme-stats.vercel.app/api/top-langs/?username=jesussoria12&layout=compact&langs_count=10&bg_color=30,192F6A,49a7c5&title_color=fff&text_color=fff)](https://github.com/jesussoria12)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus73514145&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/jesus73514145)
 
@@ -244,7 +244,7 @@ Amarillo a Rojo:
 [![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145)
 [![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Estadisticas%20de%20Jesús%20Soria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145)
  -->
-[![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus73514145&custom_title=Statistics%20of%20Jesús%20Soria&bg_color=30,192F6A,49a7c5&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesus73514145)
+[![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesussoria12&custom_title=Statistics%20of%20Jesús%20Soria&bg_color=30,192F6A,49a7c5&title_color=fff&text_color=fff&rank_icon=github&show_icons=true&icon_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/jesussoria12)
         
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
