@@ -74,7 +74,8 @@
 
 <h2 >📫 Contact Me</h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesussoria12)](https://github.com/jesussoria12)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesussoria12)](https://github.com/jesussoria12)-->
+[![Visits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjesussoria12&label=Visits&icon=github&color=%230d6efd)](https://github.com/jesussoria12)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesussoria12/)](https://www.linkedin.com/in/jesussoria12/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yisusoria@gmail.com)](mailto:yisusoria@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:jesus_soria@usmp.pe)](mailto:jesus_soria@usmp.pe)
